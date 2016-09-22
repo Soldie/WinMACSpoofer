@@ -1,6 +1,7 @@
 #WinMACSpoofer
 
 ![alt text](screenshots/macSpoofer.png "")
+
 Windows application for spoofing the MAC address and host name
 
 #Usage
