@@ -150,7 +150,7 @@ namespace winMACSpoofer {
 			this->textBox1->Location = System::Drawing::Point(146, 22);
 			this->textBox1->Name = L"textBox1";
 			this->textBox1->ReadOnly = true;
-			this->textBox1->Size = System::Drawing::Size(116, 21);
+			this->textBox1->Size = System::Drawing::Size(121, 21);
 			this->textBox1->TabIndex = 1;
 			this->textBox1->TextChanged += gcnew System::EventHandler(this, &MyForm::textBox1_TextChanged);
 			// 
